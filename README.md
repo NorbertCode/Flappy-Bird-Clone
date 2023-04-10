@@ -1,2 +1,2 @@
 # Flappy-Bird-Clone
-Klon Flappy Bird stworzony w kilka godzin.
+A flappy bird clone I made for school back in 2018. There are some weird decisions, but I think it works.
